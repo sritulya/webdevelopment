@@ -1,0 +1,188 @@
+
+
+.underwater{
+	height: auto;
+	width: auto;
+	position: relative;
+	text-align: center;
+}
+
+.underwater img{
+   text-align: center; 
+   width: auto;
+}
+
+.text{
+	color: white;
+	position: absolute;
+	top: 30%;
+	left: 21%;
+}
+.text h1{
+     font-size: 60px;
+     font-weight: bold;
+     padding:0;
+     text-align: center;
+}
+.text p{
+	font-size: 30px;
+}
+.nick p{
+	bottom: 20px;
+	left: 70%;
+	color: white;
+	position: absolute;
+}
+.paragraph {
+	color: white;
+	text-align: center;
+}
+.paragraph h1{
+	font-style: bold;
+
+}
+.paragraph p{
+	padding-left: 300px;
+	padding-right: 300px;
+
+}
+.land {
+	height: auto;
+	width: auto;
+	position: relative;
+	text-align: center;
+
+}
+.land img{
+	 width: 100%;
+	 text-align: center;
+	 position: relative;
+
+}
+.text1{
+	color: white;
+	position: absolute;
+	top: 30%;
+	left: 15%;
+}
+.text1 h1{
+     font-size: 60px;
+     font-weight: bold;
+     padding-right: 120px;
+     text-align: center;
+}
+.text1 p{
+    padding-right: 130px;
+}
+.maindiv{
+	height:400px;
+	width:auto;
+	padding: 20px;
+}
+.leftdiv{
+	float:left;
+	height:100%;
+	width:48%;
+}
+.leftdiv img{
+	height: 100%;
+	width: 100%;
+}
+.rightdiv{
+	float:right;
+	height:100%;
+	width:48%;
+}
+.rightdiv img{
+	height: 100%;
+	width: 100%;
+	margin: 5px;
+}
+.maindiv1{
+	width: auto;
+	height: 300px;
+	padding :10px;
+}
+.leftdiv1{
+	float: left;
+	width: 49%;
+	height: 100%;
+}
+.div1{
+	float: left;
+	height: 100%;
+	width: 48%;
+}
+.div1 img{
+	height: 100%;
+	width: 100%;
+}
+.div2{
+	float: right;
+	height: 100%;
+	width: 48%;
+}
+.div2 img{
+	height: 100%;
+	width: 100%;
+}
+.rightdiv1{
+	float: right;
+	width: 49%;
+	height: 100%;
+}
+.div3{
+	float: left;
+	height: 100%;
+	width: 48%;
+}
+.div3 img{
+	height: 100%;
+	width: 100%;
+}
+.div4{
+	float: right;
+	height: 100%;
+	width: 48%;
+}
+.div4 img{
+	height: 100%;
+	width: 100%;
+}
+.world{
+	height: 400px;
+	width: auto;
+	padding: 20px;
+}
+.world1{
+	height: 100%;
+	width: 30%;
+	float: left;
+}
+.world1 img{
+	height: 100%;
+	width: 100%;
+}
+.world2{
+	height: 400px;
+	width: 30%;
+	
+}
+.world2 img{
+	height: 100%;
+	width: 100%;
+}
+
+.world3{
+	height: 100%;
+	width: 30%;
+	float: right;
+}
+.world3 img{
+	height: 100%;
+	width: 100%;
+	
+
+}
+
+

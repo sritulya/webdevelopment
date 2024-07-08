@@ -1,0 +1,71 @@
+types of css
+1. inline
+2. internal
+3. external
+style:
+color                  -changing text colour
+background    -changing background of text
+font family      -changing font
+font size          - changing font size(in pixels[px])
+letter-spacing  -space btw letters(in pixels[px])
+word-spacing    -space btw words(in pixels[px])
+text-align          -aligning written text
+height/width      -for size of the image
+float left            -align item or content to left
+vw(view width)   -
+vh(view height)   -
+margin: 0 auto;    -align division or box to the center
+
+
+!DOCTYPE html>
+<html>
+<head>
+<title>CSS Design</title>
+</head>
+<body style="background: url(https://www.toptal.com/designers/subtlepatterns/uploads/double-bubble-dark.png); color: white;">
+<h1 style="color:red ;background: greenyellow;font-family: HP Simplified Jpan;text-align: center;">
+		Today Topic CSS
+</h1>
+ 
+ 
+	<p style="font-size: 18px;letter-spacing: 2px;word-spacing: 20px;">
+		Here are some examples of poorly written paragraphs and well written paragraphs on the same topic. How do they compare?
+</p>
+ 
+	<p>
+		Here are some examples of poorly written paragraphs and well written paragraphs on the same topic. How do they compare?
+</p>
+ 
+	<b style="background: greenyellow;color: blue;">Here are some examples of poorly written paragraphs and well written paragraphs on the same topic. How do they compare?</b>
+ 
+	<i>Here are some examples of poorly written paragraphs and well written paragraphs on the same topic. How do they compare?</i>
+ 
+	<br><br>
+<img src="https://static.toiimg.com/thumb/msid-108177902,width-1280,height-720,resizemode-4/108177902.jpg" style="height: 300px;float: left;">
+ 
+	<i>Here are some examples of poorly written paragraphs and well written paragraphs on the same topic. How do they compare?</i>
+ 
+	<p>
+		Here are some examples of poorly written paragraphs and well written paragraphs on the same topic. How do they compare?
+</p>
+<p>
+		Here are some examples of poorly written paragraphs and well written paragraphs on the same topic. How do they compare?
+</p>
+ 
+	<div style="clear: both;"></div>
+<h1>Next Paragraph</h1>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
