@@ -62,7 +62,7 @@
 .text1{
 	color: white;
 	position: absolute;
-	top: 30%;
+	top: 50%;
 	left: 15%;
 }
 .text1 h1{
@@ -70,6 +70,7 @@
      font-weight: bold;
      padding-right: 120px;
      text-align: center;
+     top: 500vh;
 }
 .text1 p{
     padding-right: 130px;
@@ -156,33 +157,30 @@
 }
 .world1{
 	height: 100%;
-	width: 30%;
-	float: left;
+	width: 25%;
+	float:left;
 }
 .world1 img{
-	height: 100%;
-	width: 100%;
+	height: 390px;
 }
 .world2{
-	height: 400px;
-	width: 30%;
-	
+	height: 100%;
+	width: 25%;
+	text-align: center;
 }
 .world2 img{
-	height: 100%;
-	width: 100%;
+	height: 390px
 }
-
 .world3{
 	height: 100%;
-	width: 30%;
-	float: right;
+	width: 25%;
 }
 .world3 img{
-	height: 100%;
-	width: 100%;
-	
-
+	height: 390px
 }
 
+.worldtext{
+	color: white;
+     padding-top: 0;
 
+}
